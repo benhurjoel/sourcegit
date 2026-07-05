@@ -154,25 +154,7 @@ This document shows the translation status of each locale file in the repository
 
 </details>
 
-### ![es__ES](https://img.shields.io/badge/es__ES-98.82%25-yellow)
-
-<details>
-<summary>Missing keys in es_ES.axaml</summary>
-
-- Text.DeleteBranch.AskForRemote
-- Text.DeleteBranch.Force
-- Text.FileModeChange
-- Text.FileModeChange.Deleted
-- Text.FileModeChange.Directory
-- Text.FileModeChange.Executable
-- Text.FileModeChange.New
-- Text.FileModeChange.Normal
-- Text.FileModeChange.Submodule
-- Text.FileModeChange.Symlink
-- Text.FileModeChange.Unknown
-- Text.WorkingCopy.AddToGitIgnore.UntrackedInSameFolder
-
-</details>
+### ![es__ES](https://img.shields.io/badge/es__ES-%E2%88%9A-brightgreen)
 
 ### ![fr__FR](https://img.shields.io/badge/fr__FR-95.97%25-yellow)
 
