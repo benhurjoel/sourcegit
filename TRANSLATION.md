@@ -972,25 +972,7 @@ This document shows the translation status of each locale file in the repository
 
 </details>
 
-### ![ru__RU](https://img.shields.io/badge/ru__RU-98.82%25-yellow)
-
-<details>
-<summary>Missing keys in ru_RU.axaml</summary>
-
-- Text.DeleteBranch.AskForRemote
-- Text.DeleteBranch.Force
-- Text.FileModeChange
-- Text.FileModeChange.Deleted
-- Text.FileModeChange.Directory
-- Text.FileModeChange.Executable
-- Text.FileModeChange.New
-- Text.FileModeChange.Normal
-- Text.FileModeChange.Submodule
-- Text.FileModeChange.Symlink
-- Text.FileModeChange.Unknown
-- Text.WorkingCopy.AddToGitIgnore.UntrackedInSameFolder
-
-</details>
+### ![ru__RU](https://img.shields.io/badge/ru__RU-%E2%88%9A-brightgreen)
 
 ### ![ta__IN](https://img.shields.io/badge/ta__IN-64.83%25-red)
 
